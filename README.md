@@ -1,5 +1,7 @@
 # Learning Notes
 
+- ## [GitHub Repo](https://github.com/keyvanakbary/learning-notes)
+
 Taking notes on books I read, talks I watch, articles I study, and papers I love – recalling them right afterward by creating short summaries – helps a lot in my learning process. Here you'll find some of those little pieces.
 
 If you are looking for an easy way to consume these notes, please check out [keyvanakbary.github.io/learning-notes/](https://keyvanakbary.github.io/learning-notes/).
