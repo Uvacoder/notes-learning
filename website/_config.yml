@@ -2,7 +2,7 @@ title: Notes
 description: >-
   Keyvan Akbary learning notes
 permalink: pretty
-baseurl: /learning-notes
+baseurl: /notes-learning
 
 plugins:
   - jekyll-seo-tag
